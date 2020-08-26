@@ -1,0 +1,24 @@
+/* body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  perspective: 800px;
+}
+
+img {
+  height: 60%;
+  width: 60%;
+} */
+/* .container {
+  margin: 0;
+  position: ;
+  text-align: center;
+  color: white;
+} */
+
+body {
+  background-color: rgba(0, 0, 0);
+  opacity: 10%;
+}
